@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- halo suave ao redor do disco -->
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="#33FFD21A" />
+        </shape>
+    </item>
+    <!-- disco amarelo principal -->
+    <item android:left="6dp" android:top="6dp" android:right="6dp" android:bottom="6dp">
+        <shape android:shape="oval">
+            <solid android:color="@color/flyhigh_yellow" />
+        </shape>
+    </item>
+</layer-list>

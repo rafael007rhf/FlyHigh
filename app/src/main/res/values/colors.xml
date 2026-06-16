@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Paleta FlyHigh -->
+    <color name="flyhigh_bg">#0E0F12</color>
+    <color name="flyhigh_yellow">#FFD21A</color>
+    <color name="flyhigh_white">#FFFFFF</color>
+    <color name="flyhigh_dim">#8C8C92</color>
+    <color name="flyhigh_card">#17181C</color>
+    <color name="flyhigh_card_stroke">#2A2C31</color>
+    <color name="flyhigh_divider">#3A3C42</color>
+</resources>

@@ -1,8 +1,25 @@
 <resources>
-    <string name="app_name">WearOSTemplate</string>
-    <!--
-    This string is used for square devices and overridden by hello_world in
-    values-round/strings.xml for round devices.
-    -->
+    <string name="app_name">FlyHigh</string>
+
+    <!-- Marca -->
+    <string name="brand_fly">Fly</string>
+    <string name="brand_high">High</string>
+    <string name="tagline">LET\'S GO HIGHER</string>
+
+    <!-- Métricas -->
+    <string name="label_distance">DISTANCE</string>
+    <string name="label_duration">DURATION</string>
+    <string name="label_calories">CALORIES</string>
+    <string name="value_distance">--.- KM</string>
+    <string name="value_duration">00:00</string>
+    <string name="value_calories">-- KCAL</string>
+
+    <!-- Acessibilidade -->
+    <string name="cd_play">Iniciar corrida</string>
+    <string name="cd_location">Localizacao</string>
+    <string name="cd_signal">Sinal de GPS</string>
+    <string name="cd_heart">Frequencia cardiaca</string>
+
+    <!-- Mantido do template (telas quadradas x redondas) -->
     <string name="hello_world">From the Square world,\nHello, %1$s!</string>
 </resources>
