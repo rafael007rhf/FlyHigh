@@ -20,6 +20,12 @@
     <string name="cd_signal">Sinal de GPS</string>
     <string name="cd_heart">Frequencia cardiaca</string>
 
+    <!-- Perfil -->
+    <string name="perfil_titulo">Perfil</string>
+    <string name="perfil_corredor">Rafael • 142,3 km total</string>
+    <string name="btn_perfil">PERFIL</string>
+    <string name="btn_voltar">VOLTAR</string>
+
     <!-- Mantido do template (telas quadradas x redondas) -->
     <string name="hello_world">From the Square world,\nHello, %1$s!</string>
 </resources>

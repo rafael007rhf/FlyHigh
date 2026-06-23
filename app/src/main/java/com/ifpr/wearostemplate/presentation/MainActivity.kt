@@ -5,7 +5,9 @@
 
 package com.ifpr.wearostemplate.presentation
 
+import android.content.Intent
 import android.os.Bundle
+import android.widget.Button
 import androidx.activity.ComponentActivity
 import androidx.core.splashscreen.SplashScreen.Companion.installSplashScreen
 import com.ifpr.wearostemplate.R
@@ -19,6 +21,11 @@ class MainActivity : ComponentActivity() {
         setTheme(android.R.style.Theme_DeviceDefault)
 
         setContentView(R.layout.activity_main)
+
+        findViewById<Button>(R.id.btnPerfil).setOnClickListener {
+            val intent = Intent(this, PerfilActivity::class.java)
+            startActivity(intent)
+        }
     }
 }
 
