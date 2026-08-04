@@ -77,7 +77,17 @@
             android:text="@string/tagline"
             android:textColor="@color/flyhigh_dim"
             android:textSize="9sp" />
-
+        <TextView
+            android:id="@+id/txtCronometro"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="8dp"
+            android:fontFamily="sans-serif-medium"
+            android:text="00:00:00"
+            android:textColor="@color/flyhigh_white"
+            android:textSize="16sp"
+            android:textStyle="bold" />
         <!-- Botao Play central -->
         <ImageView
             android:id="@+id/btnPlayPause"
