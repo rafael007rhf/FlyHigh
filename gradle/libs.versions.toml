@@ -1,6 +1,9 @@
 [versions]
 agp = "8.10.0"
+firebaseBom = "34.16.0"
 kotlin = "2.0.21"
+playServicesBase = "18.10.0"
+playServicesMaps = "20.0.0"
 playServicesWearable = "20.0.1"
 composeBom = "2024.09.00"
 composeMaterial = "1.2.1"
@@ -14,6 +17,11 @@ activity = "1.13.0"
 constraintlayout = "2.2.1"
 
 [libraries]
+firebase-bom = { module = "com.google.firebase:firebase-bom", version.ref = "firebaseBom" }
+firebase-database = { module = "com.google.firebase:firebase-database" }
+play-services-base = { module = "com.google.android.gms:play-services-base", version.ref = "playServicesBase" }
+play-services-basement = { module = "com.google.android.gms:play-services-basement", version.ref = "playServicesBase" }
+play-services-maps = { module = "com.google.android.gms:play-services-maps", version.ref = "playServicesMaps" }
 play-services-wearable = { group = "com.google.android.gms", name = "play-services-wearable", version.ref = "playServicesWearable" }
 compose-bom = { group = "androidx.compose", name = "compose-bom", version.ref = "composeBom" }
 ui = { group = "androidx.compose.ui", name = "ui" }
