@@ -28,4 +28,26 @@
 
     <!-- Mantido do template (telas quadradas x redondas) -->
     <string name="hello_world">From the Square world,\nHello, %1$s!</string>
+    <string name="cd_pause">Pausar corrida</string>
+    <string name="cd_resume">Retomar corrida</string>
+    <string name="corrida_iniciada">Corrida iniciada</string>
+    <string name="corrida_pausada">Corrida pausada. Toque para retomar ou segure para finalizar.</string>
+    <string name="corrida_salva">Corrida salva no histórico</string>
+    <string name="gps_aguardando">GPS • aguardando</string>
+    <string name="gps_buscando">GPS • buscando</string>
+    <string name="gps_ok">GPS • conectado</string>
+    <string name="gps_indisponivel">GPS indisponível</string>
+    <string name="gps_desligado">GPS desligado</string>
+    <string name="bpm_aguardando">♥ -- bpm</string>
+    <string name="valor_bpm">♥ %1$d bpm</string>
+    <string name="valor_km">%1$.2f km</string>
+    <string name="valor_kcal">%1$d kcal</string>
+    <string name="valor_ritmo">%1$02d:%2$02d /km</string>
+    <string name="valor_ritmo_vazio">--:-- /km</string>
+    <string name="dica_controles">TOQUE: PAUSAR • SEGURE: FINALIZAR</string>
+    <string name="btn_historico">HISTÓRICO</string>
+    <string name="historico_titulo">Histórico</string>
+    <string name="resumo_historico">%1$d corridas • %2$.2f km no total</string>
+    <string name="historico_vazio">Sua primeira corrida aparecerá aqui.</string>
+    <string name="item_corrida">%1$s  •  %2$.2f km\n%3$s  •  %4$d kcal</string>
 </resources>
