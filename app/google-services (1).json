@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "666796077430",
+    "firebase_url": "https://iftinder-b9fbf-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "iftinder-b9fbf",
+    "storage_bucket": "iftinder-b9fbf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666796077430:android:4dc6ff2a18c31099ae0a57",
+        "android_client_info": {
+          "package_name": "com.ifpr.androidappteplate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666796077430-i0e0oap2urra0obgkso3pfo0oc22tc3h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ifpr.androidappteplate",
+            "certificate_hash": "5985546224486cc378428eec4e9e6edf0a7b0dd1"
+          }
+        },
+        {
+          "client_id": "666796077430-jv1dhl9ofgqj63ll69j7jmdmofc2024a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7u15U6RA-O4iOcCpmCYCTWlxoTNDFjdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666796077430-2uhn3c2ui834a3g7imsagr4ta9jbspod.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666796077430:android:46d6ce5ee5d4a525ae0a57",
+        "android_client_info": {
+          "package_name": "com.ifpr.wearostemplate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666796077430-jv1dhl9ofgqj63ll69j7jmdmofc2024a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7u15U6RA-O4iOcCpmCYCTWlxoTNDFjdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666796077430-2uhn3c2ui834a3g7imsagr4ta9jbspod.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
